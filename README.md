@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node-339933?logo=node.js&logoColor=white" alt="Node" />
   <img src="https://img.shields.io/badge/standard--readme-1.0.0-blue" alt="standard-readme" />
+  <img src="https://skills.sh/b/ChenYiming-aaa/readme-writer" alt="skills.sh installs" />
 </p>
 
 > 🤖 本 README 就是由本技能自己生成的，快来体验吧 (≧▽≦)ﾉ
@@ -26,7 +27,19 @@
 
 ## 快速开始
 
-1. 将本仓库的 `SKILL.md` 复制到你的 AI 助手技能目录：
+### 🚀 一键安装（推荐）
+
+通过 [skills.sh](https://skills.sh) 市场安装，支持 Claude Code、Cursor、Codex、Windsurf、Gemini CLI 等 40+ 智能体：
+
+```bash
+npx skills add ChenYiming-aaa/readme-writer
+```
+
+安装后直接在任意项目中说 `帮我写一个 README` 即可 (◕‿◕)
+
+### 📦 手动安装
+
+将本仓库的 `SKILL.md` 复制到你的 AI 助手技能目录：
 
    ```bash
    # Claude Code
@@ -82,6 +95,7 @@ readme-writer/
 
 ## 相关链接
 
+- [skills.sh 市场主页](https://skills.sh/ChenYiming-aaa/readme-writer)
 - [standard-readme 规范](https://github.com/RichardLitt/standard-readme)
 - [shields.io 徽章](https://shields.io)
 
